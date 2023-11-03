@@ -1,7 +1,7 @@
 👋 Hi, I’m @recalldev10
 I’m interested in learning programming. I want a future career in Bioninforamtics. 
-🌱 I’m currently learning Python. 
-📫 How to reach me: captainhydra@gmail.com 
+🌱 I'm working in two different labs at the moment, one systems immunology and another focusing on molecular dynamics 
+📫 How to reach me: bandla.preetham0@gmail.com
 
 <!---
 recalldev10/recalldev10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
