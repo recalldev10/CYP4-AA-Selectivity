@@ -29,6 +29,7 @@ The goal of this project is to determine the effectiveness and selectivity of fo
 
 ## Help
 
+For project implementation, set-up, equilibration analysis, please refer to this document: 
 For help, refer to the project documentation or contact Preetham Bandla at recalldev10.
 
 ## Authors
