@@ -29,7 +29,7 @@ The goal of this project is to determine the effectiveness and selectivity of fo
 
 ## Help
 
-For project implementation, set-up, equilibration analysis, please refer to this document: 
+For project implementation, set-up, equilibration analysis, please refer to this document: https://github.com/recalldev10/CYP4-AA-Selectivity/blob/c61b08feb11c8a75c07c8d84c29a42c3e34bca48/IMPLEMENTATION.md 
 For help, refer to the project documentation or contact Preetham Bandla at recalldev10.
 
 ## Authors
