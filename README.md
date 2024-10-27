@@ -12,7 +12,7 @@ The goal of this project is to determine the effectiveness and selectivity of fo
 
 ### Dependencies
 
-* Python (version X.X or higher)
+* Python (version 11.0 or higher)
 * Bioinformatics libraries: RDKit, PyMOL, AMBER
 * Additional tools for molecular dynamics simulations: CHARMM-GUI, MPocket, MDAnalysis
 
