@@ -1,0 +1,16 @@
+# Molecular dynamics and computational biology tools
+MDAnalysis==2.4.1
+rdkit==2023.3.1
+pymol-open-source==2.5.0
+ambertools==23.4
+charmm-gui==0.5.0  # or appropriate version if using a specific library package
+
+# General scientific and data analysis libraries
+numpy==1.24.2
+pandas==1.5.3
+matplotlib==3.7.1
+scipy==1.11.1
+
+# Additional bioinformatics tools
+biopython==1.81
+mmtf-python==1.1.3
